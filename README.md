@@ -12,7 +12,7 @@ Get started on the minigame as soon as possible, don't procrastinate
  - 2
  - prints "hello world" in the console every frame.
  - Update and debug logs are usable in Monobehavior. ??? should be replaced with Monobehavior.
- - 10 is printed at the start, then "x = 10" is printed
+ - "x = 10" is printed
  - The highlighted areas are the arguments/parameters. 10 is passed into the method
  - In line 5, it should be _playerTransform.Translate(_direction) because Transform is already defined
  - Change Transform to _playerTransform
