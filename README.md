@@ -3,11 +3,11 @@
 
 # Week 1 In-class activity
 
-Activity 1
+## Activity 1
 
 Get started on the minigame as soon as possible, don't procrastinate
 
-Activity 2
+## Activity 2
  - 10
  - 2
  - prints "hello world" in the console every frame.
@@ -18,6 +18,6 @@ Activity 2
  - Change Transform to _playerTransform
 
 
-Activity 3
+## Activity 3
 
 https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing
