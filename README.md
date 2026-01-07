@@ -1,13 +1,23 @@
 # GDIM32 In Class Activities
 ## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+
+# Week 1 In-class activity
+
+Activity 1
+
+Get started on the minigame as soon as possible, don't procrastinate
+
+Activity 2
+ - 10
+ - 2
+ - prints "hello world" in the console every frame.
+ - Update and debug logs are usable in Monobehavior. ??? should be replaced with Monobehavior.
+ - 10 is printed at the start, then "x 10" is printed
+ - The highlighted areas are the arguments/parameters. 10 is passed into the method
+ - In line 5, it should be _playerTransform.Translate(_direction) because Transform is already defined
+ - Change Transform to _playerTransform
 
 
-Hit enter TWICE to create a new line.
+Activity 3
 
-
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
-
-
-Remove all placeholder text in order to get full credit for README file formatting.
+https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing
