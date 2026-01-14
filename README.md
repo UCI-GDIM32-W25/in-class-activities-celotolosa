@@ -1,13 +1,11 @@
 # GDIM32 In Class Activities
-## Instructions
+## Week 1 In-class activity
 
-# Week 1 In-class activity
-
-## Activity 1
+### Activity 1
 
 Get started on the minigame as soon as possible, don't procrastinate
 
-## Activity 2
+### Activity 2
  - 10
  - 2
  - prints "hello world" in the console every frame.
