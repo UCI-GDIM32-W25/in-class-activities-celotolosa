@@ -16,6 +16,12 @@ Get started on the minigame as soon as possible, don't procrastinate
  - Change Transform to _playerTransform
 
 
-## Activity 3
+### Activity 3
 
 https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing
+
+
+## Week 2 In-class activity
+
+### Activity 1
+![W-2 Inclass activity Drawing](https://github.com/user-attachments/assets/947dcd4c-746d-4594-8b1d-4f250ce23e8a)
