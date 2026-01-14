@@ -25,3 +25,8 @@ https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/
 
 ### Activity 1
 ![W-2 Inclass activity Drawing](https://github.com/user-attachments/assets/947dcd4c-746d-4594-8b1d-4f250ce23e8a)
+
+### Activity 2
+https://github.com/UCI-GDIM32-W25/mg2-celotolosa/commits/main/
+
+In this push, I created all the needed objects within the game and created a fully functioning jump mechanic in the PLayer script. I need to figure out how to make the coins randomly spawn and move across the screen, while also updating UI text everytime the player collides with a coin. They need to be destroyed when they go off the screen as well.
