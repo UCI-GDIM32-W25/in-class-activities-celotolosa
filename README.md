@@ -38,4 +38,13 @@ Kai Meng
 
 ### Activity 3:
 
+![gdim32mg3breakdown](https://github.com/user-attachments/assets/f8f0d91d-a57d-4dd0-8ce8-2e37cc73e8d8)
 
+## Week 4 In-class activity
+
+### Activity 0:
+Eric Wei
+
+When multiple Locator objects are added to the scene, only one is kept because it is a singleton. 
+
+### Activity 2: MG4 break-down
