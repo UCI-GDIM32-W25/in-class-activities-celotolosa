@@ -48,3 +48,5 @@ Eric Wei
 When multiple Locator objects are added to the scene, only one is kept because it is a singleton. 
 
 ### Activity 2: MG4 break-down
+![unnamed](https://github.com/user-attachments/assets/3f7e9225-47af-4500-b8b7-914740a166c4)
+
