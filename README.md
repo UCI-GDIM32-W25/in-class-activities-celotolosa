@@ -48,5 +48,25 @@ Eric Wei
 When multiple Locator objects are added to the scene, only one is kept because it is a singleton. 
 
 ### Activity 2: MG4 break-down
-![unnamed](https://github.com/user-attachments/assets/3f7e9225-47af-4500-b8b7-914740a166c4)
+![Github](https://github.com/user-attachments/assets/3f7e9225-47af-4500-b8b7-914740a166c4)
+
+## Week 5 In-class activity
+
+### Activity 1: 
+
+I honestly think the design of the interfaces and abstract classes are a bit confusing to me, I feel like interfaces are for much more unrelated objects and defined while abstract classes use shared behaviour. 
+
+### Activity 2:
+
+The InventoryUI is the view. The PlayerW5Demo2 is the controller. The EnemyStats and ItemW5Demo2 classes are the model.
+
+### Activity 3:
+
+Scenario 1: The project includes inheritance and polymorphism that might have the buttons as a parent class, and the different buttons that add separate points as child classes. As a FSM, different button types can change the state depending on the button that's instantiated. This can track whether the player needs to hit a combo, click or hold down on the buttons that could change the amount of points received.
+
+### Activity 4:
+
+[GDIM 32 Highly Entropic Beings](https://docs.google.com/document/d/1IXMcedZDubU3jHOIg-ZRwtj0N-xMFaV7MpOOSQTA65Q/edit?tab=t.0) 
+
+
 
