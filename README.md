@@ -68,5 +68,15 @@ Scenario 1: The project includes inheritance and polymorphism that might have th
 
 [GDIM 32 Highly Entropic Beings](https://docs.google.com/document/d/1IXMcedZDubU3jHOIg-ZRwtj0N-xMFaV7MpOOSQTA65Q/edit?tab=t.0) 
 
+## Week 6 In-class activity
+
+### Activity 1:
+
+Notes: We can use the profiler (Window -> Analysis -> Profiler) to check what methods are executing and look at how long it's taking said  method's to execute. Additionally, there's no need for a polygon collider if our game has a lot of detail. Locator makes it easier to reference a single component such as the player, so there aren't as many references in other classes, and no need for GetComponent as much.
+
+### Activity 2:
+
+Attendance: Marcelo Tolosa, Nathan Hernandez
+
 
 
