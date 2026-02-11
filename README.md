@@ -76,7 +76,7 @@ Notes: We can use the profiler (Window -> Analysis -> Profiler) to check what me
 
 ### Activity 2:
 
-Attendance: Marcelo Tolosa, Nathan Hernandez
+Attendance: Marcelo Tolosa, Nathan Hernandez, Kai Meng
 
 
 
