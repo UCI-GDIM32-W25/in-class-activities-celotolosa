@@ -78,5 +78,25 @@ Notes: We can use the profiler (Window -> Analysis -> Profiler) to check what me
 
 Attendance: Marcelo Tolosa, Nathan Hernandez, Kai Meng
 
+## Week 7 In-class activity
+
+### Activity 1:
+
+Raycast returns a boolean, and code will run inside brackets if true is returned. Difference between SphereCast and RayCast, spheres can provide more information about what's in front of you as opposed to a singular line of sight.
+
+### Activity 2: 
+
+Nathan Hernandez, Kai Meng
+
+### Activity 3:
+
+--
+
+### Activity 4:
+
+Tasks are assigned via Discord
+
+### Activity 5: 
+
 
 
