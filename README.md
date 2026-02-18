@@ -90,6 +90,7 @@ Nathan Hernandez, Kai Meng
 
 ### Activity 3:
 
+![GDIM 32 Final Breakdown](https://github.com/user-attachments/assets/3ca5bb78-5f17-4281-bf2f-bac2582042ea)
 
 
 ### Activity 4:
