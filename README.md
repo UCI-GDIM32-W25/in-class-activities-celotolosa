@@ -94,9 +94,11 @@ Nathan Hernandez, Kai Meng
 
 ### Activity 4:
 
-Tasks are assigned via Discord
+Tasks are assigned via Trello
 
 ### Activity 5: 
 
+Commit made in class: https://github.com/lindenreid/GDIM32-Final/commit/e100e6fe5fff93e9c6c886e59c0b2cf93d4f5bf6
+Created an NPC script and two separate colliders to detect when an NPC would be in range. I discussed with Kai how I would go about detectint NPC's for dialogue and interaction.
 
 
