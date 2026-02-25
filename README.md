@@ -114,12 +114,12 @@ Kai Meng, Nathan Hernandez
 
 ### Activity 3:
 
-Playtest notes: 
+Playtest notes: I did not say anything to the playtesters at first, and they did not know that you could charge your character's jump. After telling them, they found the mechanic to be difficult yet enjoyable. While the movement mechanic is still WIP, it seems to be working well. Around 50% of the playtesters' jumps resulted in their death, but they gradually decreased their margin of error. They encountered a bug where the player can indefinitely suspend themselves in midair if colliding with the side of a platform. Playtesters suggested that the player should be able to move while falling -- it would make the game more forgiving.
 
 ### Activity 4:
 
---
+I'm going to work on transferring all of the playerinteract code into the player class, and then create an NPC parent class, with child npc classes that will inherit methods
 
 ### Activity 5:
 
---
+Commit made in class: ([Commit ]https://github.com/lindenreid/GDIM32-Final/commit/aa3f597a02746f79fb628b192f13323e39931477) I made a new Parent NPC class with two child classes, QuestNPC and DialogueNPC. Also implemented the correct logic for player interaction in the player class. Deleted the playerinteract class.
