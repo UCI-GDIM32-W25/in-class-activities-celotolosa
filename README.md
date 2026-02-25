@@ -102,4 +102,24 @@ Tasks are assigned via Trello
 Commit made in class: https://github.com/lindenreid/GDIM32-Final/commit/e100e6fe5fff93e9c6c886e59c0b2cf93d4f5bf6
 Created an NPC script and two separate colliders to detect when an NPC would be in range. I discussed with Kai how I would go about detectint NPC's for dialogue and interaction.
 
+## Week 8 In-class activity
 
+### Activity 1:
+
+How to find out what Rendering Pipeline I'm using. Hit edit > Project Settings > Graphics. How to set up post-processing in built-in pipeline. First, download the Post Processing package from the Unity registry. Open the package manager under Window > Package Manager, then navigate to the Unity Registry section and install the Post Processing package.
+
+### Activity 2:
+
+Kai Meng, Nathan Hernandez
+
+### Activity 3:
+
+Playtest notes: 
+
+### Activity 4:
+
+--
+
+### Activity 5:
+
+--
