@@ -145,4 +145,4 @@ I think that so far we're running a little behind on our project based on our sc
 
 ### Activity 5:
 
-
+([Activity 5 Commit]https://github.com/lindenreid/GDIM32-Final/commit/687c0f856f125374a38f6a9c2ddcc778228eb819) I fixed some of the DialogueNode logic, creating third reply option. Added a state changes based on whether the player accepts the NPC's quest.
