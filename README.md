@@ -123,3 +123,26 @@ I'm going to work on transferring all of the playerinteract code into the player
 ### Activity 5:
 
 Commit made in class: ([Commit ]https://github.com/lindenreid/GDIM32-Final/commit/aa3f597a02746f79fb628b192f13323e39931477) I made a new Parent NPC class with two child classes, QuestNPC and DialogueNPC. Also implemented the correct logic for player interaction in the player class. Deleted the playerinteract class.
+
+## Week 9 In-class activity
+
+### Activity 1:
+
+Not in class
+
+### Activity 2:
+
+Kai Meng, Nathan Hernandez, Marcelo Tolosa (not in class, sick)
+
+### Activity 3:
+
+How was the movement? The jumping and platforming overall were addicting.
+Recommendations: Lower camera sensitivity, introduce mechanics slowly over time, introduce a jump force indicator
+
+### Acitvity 4:
+
+I think that so far we're running a little behind on our project based on our scope. I think that a lot of things could've been simplified, but based on our team's agreements on the requirements we decided to have particular standards. I think our scope is a bit short, but manageable.
+
+### Activity 5:
+
+
